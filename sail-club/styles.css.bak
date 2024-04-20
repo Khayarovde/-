@@ -1,0 +1,97 @@
+.page-footer {
+  margin: 0;
+  padding: 20px;
+  background-color: #f0f0f0;
+}
+
+.page-footer-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.page-footer-column {
+  display: flex;
+  align-items: center;
+}
+
+.logo-link {
+  margin-right: 20px;
+}
+
+.logo-image {
+  width: 100px;
+  height: auto;
+}
+
+.policy-link {
+  text-decoration: none;
+  color: #163152;
+}
+
+.navigation-topics {
+  display: flex;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.navigation-topic {
+  margin-right: 40px;
+}
+
+.title {
+  margin-bottom: 10px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.navigation {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.navigation-item {
+  margin-bottom: 5px;
+}
+
+.navigation-link {
+  text-decoration: none;
+  color: #163152;
+}
+
+.hero 
+{
+  width: 1170px;
+  margin: 0 auto 120px;
+}
+
+.hero-title {
+  margin: 0 0 40px 70px;
+
+  font-style: italic;
+  font-weight: 400;
+  font-size: 44px;
+  line-height: 60px;
+  text-transform: uppercase;
+}
+
+.hero-banner {
+  display: block;
+}
+.blog {
+    list-style-type: none; 
+    padding: 0; 
+}
+
+.blog ul {
+    padding: 0; 
+}
+
+.blog li {
+    margin: 0;
+    padding: 0;
+}

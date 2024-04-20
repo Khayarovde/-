@@ -1,0 +1,145 @@
+header
+{
+	text-align: center;
+	position: absolute;
+	width: 1280px;
+	height: 108px;
+	left: 0px;
+	top: 0px;
+}
+.logotype
+{
+	position: absolute;
+	width: 64px;
+	height: 68px;
+	left: 55px;
+	top: 20px;
+}
+.header-menu
+{
+	list-style-type: none;
+    padding: 0;
+    margin: 0;
+	display: flex; 
+}
+
+.main
+{
+	position: absolute;
+	width: 1170px;
+	height: 566px;
+	top: 148px;
+}
+
+
+ul.header-menu li:nth-child(1) {
+    position: absolute;
+    width: 73px;
+    height: 18px;
+    left: 590px;
+    top: 45px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    text-transform: uppercase;
+    color: #163152;
+}
+
+ul.header-menu li:nth-child(2) 
+{
+	position: absolute;
+	width: 52px;
+	height: 18px;
+	left: 693px;
+	top: 45px;
+
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 18px;
+	text-transform: uppercase;
+	color: #163152;
+}
+
+ul.header-menu li:nth-child(3) 
+{
+	position: absolute;
+	width: 70px;
+	height: 18px;
+	left: 775px;
+	top: 45px;
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 18px;
+	text-transform: uppercase;
+	color: #163152;
+}
+
+ul.header-menu li:nth-child(4)
+{
+	position: absolute;
+	width: 73px;
+	height: 18px;
+	left: 875px;
+	top: 45px;
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 18px;
+	text-transform: uppercase;
+	color: #163152;
+}
+
+ul.header-menu li:nth-child(5) 
+{
+	position: absolute;
+	width: 66px;
+	height: 18px;
+	left: 978px;
+	top: 45px;
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 18px;
+	text-transform: uppercase;
+	color: #163152;
+}
+ul.header-menu li:nth-child(6) 
+{
+	position: absolute;
+	width: 75px;
+	height: 18px;
+	left: 1074px;
+	top: 45px;
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 18px;
+	text-transform: uppercase;
+	color: #163152;
+}
+.user
+{
+	position: absolute;
+	width: 36px;
+	height: 36px;
+	left: 1189px;
+	top: 36px;
+}
+
+.main .logo-image
+{
+	position: absolute;
+	width: 1170px;
+	height: 466px;
+	top: 248px;
+	background: url(Выборочная коррекция цвета 1.jpg);
+}

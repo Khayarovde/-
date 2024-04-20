@@ -1,0 +1,423 @@
+header
+{
+	text-align: center;
+	position: absolute;
+	width: 1280px;
+	height: 108px;
+	left: 0px;
+	top: 0px;
+}
+.logotype
+{
+	position: absolute;
+	width: 64px;
+	height: 68px;
+	left: 55px;
+	top: 20px;
+}
+.header-menu
+{
+	list-style-type: none;
+    padding: 0;
+    margin: 0;
+	display: flex; 
+}
+
+.main
+{
+	position: absolute;
+	width: 1170px;
+	height: 566px;
+	top: 148px;
+}
+.main .title
+{
+	position: absolute;
+	width: 488px;
+	height: 60px;
+	left: 125px;
+	top: 0px;
+	font-family: 'Roboto';
+	font-style: italic;
+	font-weight: 400;
+	font-size: 44px;
+	line-height: 60px;
+	color: #163152;
+}
+.main .yacht
+{
+	position: absolute;
+	width: 1170px;
+	height: 466px;
+	left: 55px;
+	top: 100px;
+}
+
+
+ul.header-menu li:nth-child(1) {
+    position: absolute;
+    width: 73px;
+    height: 18px;
+    left: 590px;
+    top: 45px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    text-transform: uppercase;
+    color: #163152;
+}
+
+ul.header-menu li:nth-child(2) 
+{
+	position: absolute;
+	width: 52px;
+	height: 18px;
+	left: 693px;
+	top: 45px;
+
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 18px;
+	text-transform: uppercase;
+	color: #163152;
+}
+
+ul.header-menu li:nth-child(3) 
+{
+	position: absolute;
+	width: 70px;
+	height: 18px;
+	left: 775px;
+	top: 45px;
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 18px;
+	text-transform: uppercase;
+	color: #163152;
+}
+
+ul.header-menu li:nth-child(4)
+{
+	position: absolute;
+	width: 73px;
+	height: 18px;
+	left: 875px;
+	top: 45px;
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 18px;
+	text-transform: uppercase;
+	color: #163152;
+}
+
+ul.header-menu li:nth-child(5) 
+{
+	position: absolute;
+	width: 66px;
+	height: 18px;
+	left: 978px;
+	top: 45px;
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 18px;
+	text-transform: uppercase;
+	color: #163152;
+}
+ul.header-menu li:nth-child(6) 
+{
+	position: absolute;
+	width: 75px;
+	height: 18px;
+	left: 1074px;
+	top: 45px;
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 18px;
+	text-transform: uppercase;
+	color: #163152;
+}
+.user
+{
+	position: absolute;
+	width: 36px;
+	height: 36px;
+	left: 1189px;
+	top: 36px;
+}
+.blog-1
+{
+	position: absolute;
+	width: 1030px;
+	height: 262px;
+	left: 0;
+	top: 834px;
+}
+.blog-1 .data
+{
+width: 251px;
+height: 18px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+text-transform: uppercase;
+color: #163152;
+}
+
+
+.blog-1 .line
+{
+	position: absolute;
+	width: 268px;
+	height: 0px;
+	border: 2px solid #00C6BD;
+	transform: rotate(0.22deg);
+}
+.blog-1 .text
+{
+position: absolute;
+width: 400px;
+height: 120px;
+top: 100px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+color: #163152;
+}
+.blog-1 .human
+{
+	position: absolute;
+	top: 240px;
+	width: 600px;
+	height: 262px;
+}
+.blog-2
+{
+	position: absolute;
+	width: 1030px;
+	height: 252px;
+	left: 0;
+	top: 1500px;
+}
+.blog-2 .data
+{
+	width: 251px;
+	height: 18px;
+	top: 0;
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 18px;
+	text-transform: uppercase;
+	color: #163152;
+}
+
+.blog-2 .line
+{
+	position: absolute;
+	width: 194px;
+	height: 0px;
+	border: 2px solid #00C6BD;
+	transform: rotate(0.22deg);
+}
+.blog-2 .text
+{
+position: absolute;
+width: 400px;
+height: 120px;
+top: 100px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+color: #163152;
+}
+
+.blog-2 .human
+{
+position: absolute;
+width: 600px;
+height: 252px;
+left: 0;
+top: 100px;
+}
+#contacts
+{
+	position: absolute;
+	width: 1010px;
+	height: 351px;
+	left: 0;
+	top: 2000px;
+}
+#contacts #contact
+{ 
+width: 113px;
+height: 34px;
+top: 50px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 34px;
+/* identical to box height, or 142% */
+display: flex;
+align-items: center;
+text-align: right;
+color: #163152;
+}
+#contacts #line
+{
+	position: absolute;
+	width: 113px;
+	height: 0px;
+	top: 75px;
+	border: 2px solid #00C6BD;
+}
+#adress
+{
+position: absolute;
+width: 52px;
+height: 22px;
+top: 100px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height, or 138% */
+
+color: #163152;
+}
+#adress-info
+{
+	position: absolute;
+	top: 120px;
+	left: 0;
+}
+#phone
+{
+	position: absolute;
+	width: 52px;
+	height: 22px;
+	top: 150px;
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 16px;
+	line-height: 22px;
+	/* identical to box height, or 138% */
+
+	color: #163152;
+}
+#phone-info
+{
+	position: absolute;
+	top: 170px;
+	left: 0;
+}
+#email
+{
+	position: absolute;
+	width: 52px;
+	height: 22px;
+	top: 200px;
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 16px;
+	line-height: 22px;
+	color: #163152;
+}
+#email-info
+{
+	position: absolute;
+	top: 220px;
+	left: 0;
+}
+#social
+{
+	position: absolute;
+	width: 189px;
+	height: 22px;
+	top: 250px;
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 16px;
+	line-height: 22px;
+	color: #163152;
+}
+#social-1
+{
+	position: absolute;
+	top: 280px;
+}
+#social-2
+{
+	position: absolute;
+	top: 310px;
+}
+#social-3
+{
+	position: absolute;
+	top: 340px;
+}
+footer
+{
+	position: absolute;
+	top: 2400px;
+	left: 0px;
+}
+footer .logotype
+{
+	position: absolute;
+	width: 64px;
+	left: 0;
+	height: 68px;
+	top: 20px;
+}
+.politic-type
+{
+position: absolute;
+width: 175px;
+height: 32px;
+top: 100px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+color: #000066;
+}
+.topics
+{
+	
+	position: absolute;
+	left: 0;
+	width: 175px;
+	height: 32px;
+	top: 150px;
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 10px;
+	line-height: 12px;
+	color: #000066;
+}
